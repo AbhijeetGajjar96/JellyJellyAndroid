@@ -43,4 +43,4 @@ JellyJelly1 is an Android app built with Jetpack Compose, featuring a custom cam
 - The app follows best practices for Camera2 API and MediaRecorder integration.
 
 ## License
-MIT License (add your license here)
+For educational purposes only.
